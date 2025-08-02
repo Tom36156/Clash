@@ -1,0 +1,59 @@
+files:
+  - time: 1753538286676.yml
+    name: KyCloud
+    url: https://subscribe.kyapi.xyz/modules/servers/V2RaySocks/subscribe/clash.php?sid=191095&token=k2fLyrMducpb
+    selected:
+      - name: GLOBAL
+        now: DIRECT
+      - name: Ⓜ️ 微软服务
+        now: 🚀 节点选择
+      - name: ⛽ 剩余流量:152G
+        now: DIRECT
+      - name: 套餐状态
+        now: ⛽ 剩余流量:152G
+      - name: 🌍 国外媒体
+        now: 🚀 节点选择
+      - name: 🍎 苹果服务
+        now: 🚀 节点选择
+      - name: 🎯 全球直连
+        now: DIRECT
+      - name: 🐟 漏网之鱼
+        now: 🚀 节点选择
+      - name: 💬 OpenAi
+        now: 🚀 节点选择
+      - name: 📅 到期时间:2025-08-13
+        now: DIRECT
+      - name: 📢 谷歌FCM
+        now: 🚀 节点选择
+      - name: 📲 电报信息
+        now: 🚀 节点选择
+      - name: 🚀 节点选择
+        now: S-IEPL-新加坡3
+      - name: 🛑 全球拦截
+        now: REJECT
+    interval: 24
+    subInfo:
+      upload: 1769167841
+      download: 49271762073
+      total: 214748364800
+      expire: 1755014400
+    homeWeb: ""
+    cron: ""
+    headers: ""
+    mode: rule
+  - time: 1753537526522.yml
+    name: Yecao100-58564-t.yaml
+    url: https://yc.wenjiushuobuzhidao.top/58564/c?auth=f34c7780d640fbadccbc3f97ae1d9f98&v=t
+    selected:
+      - name: GLOBAL
+        now: DIRECT
+      - name: Proxy
+        now: 新加坡
+    interval: 24
+    subInfo:
+      upload: 1047725072
+      download: 13789330212
+      total: 214748364800
+      expire: 1783785600
+    homeWeb: ""
+index: 0
